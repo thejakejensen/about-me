@@ -2,8 +2,8 @@ body{
   background-color: #EE82EE;
 }
 .img-circle{
-  max-width: 10%;
-
+  max-width: 5%;
+  padding-right: 10px;
 }
 ul{
   float: right;
