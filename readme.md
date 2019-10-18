@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _about me page_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A website that will showcase things about me, 10.18.19_
 
 #### By _**Jacob Jensen**_
 
