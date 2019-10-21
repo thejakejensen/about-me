@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _my blog_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _a blog about me, 10-20-19_
 
 #### By _**Jacob Jensen**_
 
