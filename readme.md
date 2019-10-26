@@ -20,7 +20,7 @@ _there are no known bugs_
 
 ## Support and contact details
 
-_If you just love the program or its so broken that you want to tell me off for it contact me at this super real phone number 360 555 5555._
+_If you just love the program or its so broken that you want to tell me off for it contact me at this super real phone number 360 555 5555. a link to my GH pages is _
 
 ## Technologies Used
 
